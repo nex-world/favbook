@@ -1,0 +1,1 @@
+import{j as r}from"./index-qp7-XOP_.js";import{C as a,a as s,b as t,d}from"./card-BDaN9yr-.js";function o(e){return r.jsxs(a,{children:[r.jsx(s,{children:r.jsx(t,{children:e.title})}),r.jsx(d,{children:r.jsx("pre",{className:"text-xs bg-muted/50 p-3 rounded-md overflow-x-auto",children:JSON.stringify(e.data,null,2)})})]})}export{o as B};

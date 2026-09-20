@@ -1,0 +1,1 @@
+import{r as t,h as a,f as r}from"./index-qp7-XOP_.js";import{u as s}from"./react-BwPJ8gqO.js";function k(){const o=s(r);t.useEffect(()=>{a()},[]);const e=!!(o.backendUrl&&o.token),n=t.useMemo(()=>({backendUrl:o.backendUrl,token:o.token}),[o.backendUrl,o.token]);return{authState:o,isAuthed:e,clientConfig:n}}export{k as u};
