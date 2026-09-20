@@ -1,0 +1,1 @@
+import{r as t,h as s,g as r}from"./index-CZrwGaSN.js";import{u as c}from"./react-BALaT9Uv.js";function d(){const o=c(r);t.useEffect(()=>{s()},[]);const e=o.mode==="local",a=e||!!(o.backendUrl&&o.token),n=t.useMemo(()=>({mode:o.mode,backendUrl:o.backendUrl,token:o.token}),[o.mode,o.backendUrl,o.token]);return{authState:o,isAuthed:a,isLocal:e,clientConfig:n}}export{d as u};
