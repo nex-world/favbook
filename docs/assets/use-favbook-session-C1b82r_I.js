@@ -1,0 +1,1 @@
+import{u as s,r as t,m as r,l as c}from"./index-ZUUIl3iv.js";function k(){const o=s(c);t.useEffect(()=>{r()},[]);const e=o.mode==="local",a=e||!!(o.backendUrl&&o.token),n=t.useMemo(()=>({mode:o.mode,backendUrl:o.backendUrl,token:o.token}),[o.mode,o.backendUrl,o.token]);return{authState:o,isAuthed:a,isLocal:e,clientConfig:n}}export{k as u};
