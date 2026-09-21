@@ -1,0 +1,1 @@
+import{j as r,B as s,L as t}from"./index-Dw3RpPdC.js";import{C as a,a as i,b as n,c as d,d as o}from"./card-DiyjeG4P.js";function j(e){return r.jsxs(a,{children:[r.jsxs(i,{children:[r.jsx(n,{children:e.title}),r.jsx(d,{children:e.description})]}),r.jsx(o,{children:r.jsx(s,{nativeButton:!1,render:r.jsx(t,{to:"/dev/auth"}),children:"前往登录 / 注册"})})]})}export{j as F};
