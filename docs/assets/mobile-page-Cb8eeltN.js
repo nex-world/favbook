@@ -1,0 +1,1 @@
+import{j as t,a as o}from"./index-CbUgf0St.js";function s({className:a,...e}){return t.jsx("div",{"data-slot":"mobile-page",className:o("wac-mobile-page",a),...e})}function i({className:a,...e}){return t.jsx("div",{"data-slot":"mobile-page-content",className:o("wac-page-content",a),...e})}export{s as M,i as a};
